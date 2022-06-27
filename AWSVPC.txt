@@ -1,0 +1,3 @@
+NAT gateway - nat-014a69343b004e0e1
+
+Cloud watch - high-cpu-usages
